@@ -1,4 +1,5 @@
-🚗 Real-Time Traffic Accident Analytics
+# 🚗 Real-Time Traffic Accident Analytics
+
 📌 Overview
 
 This project focuses on building a real-time analytics pipeline for traffic accidents using Big Data tools. It collects and processes streaming accident data to gain insights about location, severity, weather conditions, and contributing factors such as speeding, distracted driving, and road conditions.
